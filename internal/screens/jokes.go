@@ -15,8 +15,6 @@ func GetRandomJoke() string {
 	}
 
 	facts := []string{
-		"Dolphins can recognize themselves in mirrors!\nJust like Tim checking his code for bugs 🐛",
-		"Dolphins have names for each other!\nTim's dolphin name would be 'Click-Whistle-Golem'",
 		"Dolphins sleep with one eye open!\nPerfect for monitoring system resources 24/7",
 		"Dolphins can hold their breath for 15 minutes!\nLonger than most coding sessions without coffee ☕",
 		"Dolphins use echolocation to navigate!\nBetter than GPS for finding bugs in code",
