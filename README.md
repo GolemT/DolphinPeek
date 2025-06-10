@@ -178,16 +178,6 @@ go run main.go
 - **GUI Behavior**: Platform-specific window management
 - **Dependencies**: Ensuring consistent behavior across platforms
 
-## Contributing
-
-This project is designed as a learning exercise for desktop development and cross-platform challenges. The focus is on:
-- Clean, readable Go code
-- Efficient resource usage
-- Cross-platform compatibility
-- Maintainable architecture
-
-For feature requests or contributions open a github issue. The issue should state the wanted improvements in the form of user stories.  
-
 ---
 
 *"Swimming through system stats, one thread at a time"* 🐬💻
